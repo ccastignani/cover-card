@@ -2,11 +2,11 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'Carla Castignani'
-description: 'Msc in Bioinformatics'
+title: 'My Name'
+description: 'I'm amazing'
 
 # Images
-avatar: 'T--UPF_CRG_Barcelona--CARLA.jpg'
+avatar: 'avatar.jpg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
 
